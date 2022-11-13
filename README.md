@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Leonid</h1>
-<h3 align="center">Full Stack developer</h3>
+<h3 align="center">Full Stack JavaScript developer</h3>
 
 - Ask me about **Node.js, React, PostgreSQL**
 
